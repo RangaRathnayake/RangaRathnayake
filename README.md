@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rangarathnayake&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <a href="[https://linkedin.com/in/rangarathnayake](https://www.linkedin.com/in/ranga-rathnayake/)" target="_blank">
+  <a href="https://www.linkedin.com/in/ranga-rathnayake/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:rm.rangarathnayake@gmail.com">
