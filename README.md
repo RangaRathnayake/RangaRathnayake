@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently architecting and developing **[Sithuwari](https://sithuwari.lk/)**, **Bitnex**, and **RealDAO**.
+- 🔭 I’m currently architecting and developing **[Sithuwari](https://sithuwari.lk/)**.
 - 🌱 Exploring cutting-edge **Local LLMs**, **Web3 (Solidity)**, and **Cloud Infrastructure**.
 - 🎥 Creator of **Hiruni's Cloud Log** - Sharing tech content on Docker, DevOps, and Software Engineering.
 - 💬 Ask me about **Node.js, NestJS, Go, AWS, Docker**, and **Microservices architecture**.
